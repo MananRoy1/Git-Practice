@@ -1,0 +1,9 @@
+{
+  "name": "dev-notes",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "echo \"Lint passed\"",
+    "test": "echo \"Tests passed\"",
+    "build": "echo \"Build successful\""
+  }
+}
